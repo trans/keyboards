@@ -10,6 +10,10 @@ The TRS60 design is driven by a small set of principles.
 * Symmetry
 * Customization
 
+Here is the layout thus far.
+
+* [Layout](http://www.keyboard-layout-editor.com/#/gists/2b5018ac85e15f06fe42855820e2a7aa)
+
 
 ## TRS-40
 
@@ -29,12 +33,31 @@ with a matching low-profile.
 
 
 
-## Bozo Board
 
-*To Bozo or not to Bozo? That is the question.*
+## CLOWN CAR BOARD
+
+*Just the FUNdamentals*
 
 After discovering the [SpaceFN](https://geekhack.org/index.php?topic=51069.0) concept by spiceBar, I couldn't help myself and designed this crazy fun minimalist board.
 
 * [Minimal Base](http://www.keyboard-layout-editor.com/#/gists/0334aa2c9c46d7a01489a6f6fa6b53bb)
-* [Filled Out](http://www.keyboard-layout-editor.com/#/gists/0334aa2c9c46d7a01489a6f6fa6b53bb)
+* [Filled Out](http://www.keyboard-layout-editor.com/#/gists/1ee881e70e8ff5b349f03b7180c07f80)
+* [Alternative](http://www.keyboard-layout-editor.com/#/gists/7e880443e14622c04e507b4e5f5993e1)
+* [Traditional QWERTY](http://www.keyboard-layout-editor.com/#/gists/64e454a85fb7060c9dcb343c8eb950c0)
+
+
+## Bozo Keycaps
+
+*To Bozo or not to Bozo? That is the question.*
+
+* [CC36](http://www.keyboard-layout-editor.com/#/gists/1ee881e70e8ff5b349f03b7180c07f80)
+
+
+## Tools
+
+Helpful Tools
+
+* http://www.keyboard-layout-editor.com
+* http://builder.swillkb.com/
+
 
